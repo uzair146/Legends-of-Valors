@@ -1,0 +1,36 @@
+lion
+130
+18
+10
+BerserkerWarrior
+60
+3
+Warrior's Health Potion
+Potion
+40
+Basic Sword
+Weapon
+15
+Warrior's Strength Potion
+Potion
+10
+0
+1
+0
+0
+1
+Goblin
+100
+10
+0
+0
+0
+1
+Orc
+100
+10
+0
+1
+Dragon
+100
+10
